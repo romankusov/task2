@@ -12,7 +12,7 @@ public class DefaultController {
     @GetMapping("/")
     public String index()
     {
-        return "Hello!";
+        return "Hello 1";
     }
 
 }
